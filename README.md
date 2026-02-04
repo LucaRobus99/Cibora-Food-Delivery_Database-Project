@@ -1,8 +1,3 @@
-Ottimo lavoro con la documentazione, Luca! Hai strutturato il progetto in modo molto professionale, coprendo tutti i pilastri di una progettazione database fatta a dovere: dal concettuale alla gestione delle integrità.
-
-Ho aggiornato la sezione **Technologies Used** per specificare l'uso di **PostgreSQL**, mantenendo lo stile pulito e tecnico che hai impostato.
-
----
 
 # 🍕 Cibora Food Delivery Database Project
 
@@ -52,7 +47,3 @@ The initial design includes complex entities such as **Utente**, **Rider**, **Ri
 
 > **🎓 Educational Purpose**
 > This project was developed by **Luca Robustelli** as an academic requirement for the University of Turin. It is a theoretical design meant to demonstrate database architectural principles on **PostgreSQL**.
-
----
-
-Ti serve aiuto per scrivere qualche **Trigger** specifico in PL/pgSQL per gestire la logica dei chilometri o gli stati degli ordini?
